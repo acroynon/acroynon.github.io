@@ -26,7 +26,7 @@ CONFIG = {
     # Output path. Can be absolute or relative to tasks.py. Default: 'output'
     'deploy_path': SETTINGS['OUTPUT_PATH'],
     # Github Pages configuration
-    'github_pages_branch': 'main',
+    'github_pages_branch': 'gh-pages',
     'commit_message': "'Publish site on {}'".format(datetime.date.today().isoformat()),
     # Host and port for `serve`
     'host': 'localhost',
@@ -127,7 +127,7 @@ def livereload(c):
 def publish(c):
     """Publish to GitHub Pages"""
     preview(c)
-    c.run('ghp-import -b {github_pages_branch} '
+    c.run('ghp-import -n -b {github_pages_branch} '
           '-m {commit_message} '
           '{deploy_path} -p'.format(**CONFIG))
 
