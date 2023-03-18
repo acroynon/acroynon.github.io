@@ -18,4 +18,4 @@ jobs:
       - name: Build docs
         run: invoke publish
       - name: Publish docs
-        run: git push -f "https://${GITHUB_ACTOR}:${{secrets.TOKEN}}@github.com/${GITHUB_REPOSITORY}.git" gh-pages:gh-pages
+        run: git push --force "https://${GITHUB_ACTOR}:${{secrets.TOKEN}}@github.com/${GITHUB_REPOSITORY}.git" gh-pages:gh-pages
