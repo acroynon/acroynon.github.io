@@ -39,6 +39,8 @@ invoke livereload
 
 # How to Publish to Github Pages
 
-Publishing to gh-pages to automatically managed via Github Actions.
+This will generate the site and push the static content to the remote gh-pages branch.
 
-See `./.github/workflows/publish-blog.yml` for more details.
+```bash
+invoke publish
+```

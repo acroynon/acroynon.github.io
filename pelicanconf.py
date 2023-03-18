@@ -1,8 +1,10 @@
 AUTHOR = 'acroynon'
 SITENAME = "acroynon's devlog"
-SITEURL = ''
+SITEURL = 'https://acroynon.com'
 
 PATH = 'content'
+
+THEME = 'notmyidea'
 
 TIMEZONE = 'Europe/London'
 
@@ -19,15 +21,16 @@ AUTHOR_FEED_RSS = None
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
-    ('HOME', '/'),
+    ('BLOG', '/'),
     ('ABOUT', '/pages/about.html')
 )
 
 # Social widget
 SOCIAL = (
+    ('Itch.io', 'https://acroynon.itch.io'),
     ('Github', 'https://github.com/acroynon'),
-    ('Twitter', '#'),
-    ('Itch.io', '#')
+    ('Twitter', 'https://twitter.com/acroynon'),
+    ('YouTube', 'https://youtube.com')
 )
 
 # Blogroll
