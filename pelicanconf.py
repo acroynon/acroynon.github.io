@@ -17,12 +17,21 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Pages Settings
+PAGE_URL = "{slug}/"
+PAGE_SAVE_AS = "{slug}/index.html"
+
+# Articles Settings
+ARTICLE_URL = "blog/{slug}/"
+ARTICLE_SAVE_AS = "blog/{slug}/index.html"
+
 # Navbar
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
     ('BLOG', '/'),
-    ('ABOUT', '/pages/about.html')
+    ('ABOUT', '/pages/about.html'),
+    ('GAMES', '/pages/games.html')
 )
 
 # Social widget
