@@ -46,7 +46,7 @@ SOCIAL = (
     ('Itch.io', 'https://acroynon.itch.io'),
     ('Github', 'https://github.com/acroynon'),
     ('Twitter', 'https://twitter.com/acroynon'),
-    ('YouTube', 'https://youtube.com')
+    ('YouTube', 'https://www.youtube.com/@acroynon')
 )
 
 # Blogroll
