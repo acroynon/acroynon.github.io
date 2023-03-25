@@ -4,7 +4,7 @@ SITEURL = 'https://acroynon.com'
 
 PATH = 'content'
 
-THEME = 'notmyidea'
+THEME = 'D:/acroy/Documents/Adam/Projects/acroynon_site/theme'
 
 TIMEZONE = 'Europe/London'
 
@@ -30,8 +30,8 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
     ('BLOG', '/'),
-    ('ABOUT', '/pages/about.html'),
-    ('GAMES', '/pages/games.html')
+    ('ABOUT', '/about'),
+    ('GAMES', '/games')
 )
 
 # Social widget

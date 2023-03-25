@@ -41,15 +41,15 @@ There will be a small handful of people who are interested in what game engine o
 I have some initial requirements and prerequistites that have informed my decision, but I haven't landed on a definite winner yet.
 
 I know, at least to begin with, I want to stick with 2D. I've always found 3D to be difficult to get a result that looks good without a lot of effort. 
-2D art is more forgiving in that regard. Therefore, `Unreal <Unreal_home_page>`_ could be crossed off my list, as that has basically no 2D capabailities and is massively overkill for 2D games.
+2D art is more forgiving in that regard. Therefore, `Unreal`_ could be crossed off my list, as that has basically no 2D capabailities and is massively overkill for 2D games.
 
 I always want the ability to target multiple platforms and devices without having to jump through too many hoops, or pay an exoraborant porting or licence fee.
-For that reason, I ruled out `Unity <Unity_home_page>`_ due to their requirement to purchase the Pro Version if you want to target consoles. 
+For that reason, I ruled out `Unity`_ due to their requirement to purchase the Pro Version if you want to target consoles. 
 
-After a little reason, and crossing a few more options off the list, I came to three possible contenders: `Godot <Godot_home_page>`_, `Monogame <Monogame_home_page>`_ and `LibGDX <LibGDX_home_page>`_. 
-All three have some form of cross-platform support. `Monogame <Monogame_home_page>`_ and `Godot <Godot_home_page>`_ (within reason) can target consoles.
+After a little reason, and crossing a few more options off the list, I came to three possible contenders: `Godot`_, `Monogame`_ and `LibGDX`_. 
+All three have some form of cross-platform support. `Monogame`_ and `Godot`_ (within reason) can target consoles.
 
-The keen reader may have realised that `LibGDX <LibGDX_home_page>`_ cannot support game consoles, yet it is still within my top 3. 
+The keen reader may have realised that `LibGDX`_ cannot support game consoles, yet it is still within my top 3. 
 That's easy, I use Java during my day job, and have been using the language since before I started in the industry, so I have a head start.
 It felt silly to ignore it, even given it's limited platform support, as in theory I should be the fastest within that setup.
 
@@ -73,8 +73,8 @@ This website is here so I can keep a record of my journey and look back on where
 
 It's an unscheduled, unpolished, journel of thoughts. 
 
-.. Unreal_home_page: https://www.unrealengine.com/en-US/?sub_campaign=&utm_content=
-.. Unity_home_page: https://unity.com/pages/unity-pro-buy-now
-.. Godot_home_page: https://godotengine.org/
-.. Monogame_home_page: https://www.monogame.net/
-.. LibGDX_home_page: https://libgdx.com/
+.. _Unreal: https://www.unrealengine.com/
+.. _Unity: https://unity.com/
+.. _Godot: https://godotengine.org/
+.. _Monogame: https://www.monogame.net/
+.. _LibGDX: https://libgdx.com/
