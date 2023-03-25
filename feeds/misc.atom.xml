@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>acroynon's devlog - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2023-03-19T00:00:00+00:00</updated><entry><title>Brave New World</title><link href="/blog/brave-new-world/" rel="alternate"></link><published>2023-03-19T00:00:00+00:00</published><updated>2023-03-19T00:00:00+00:00</updated><author><name>acroynon</name></author><id>tag:None,2023-03-19:/blog/brave-new-world/</id><summary type="html">&lt;p class="first last"&gt;The beginning of my gamedev journey&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;This is the beginning of my journey into the world of game development. Well, maybe that's a bit too dramatic.
+Let me catch you up (don't worry, it won't take long).&lt;/p&gt;
+&lt;div class="section" id="a-brief-history"&gt;
+&lt;h2&gt;A Brief History&lt;/h2&gt;
+&lt;p&gt;I started programming around 2008/9 initially because I wanted to make games, and that's what I spent the first few years doing.
+Small flash games, back before flash was dead and gone.&lt;/p&gt;
+&lt;p&gt;As I grew up I realised that programming was something you could actually be paid to do. So I began &amp;quot;taking it more seriously&amp;quot;.
+This amounted to me getting a degree in Computer Science and various other code/computer related qualifications and experience.
+(I even wrote a book about how to code).&lt;/p&gt;
+&lt;p&gt;When I began my life as a &amp;quot;corporate programmer&amp;quot; the young game dev part of me was abandoned and left in the cold.
+I've since been working full-time as a Software Engineer in web development, mainly using Java, since around 2017.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="re-discovering-game-development"&gt;
+&lt;h2&gt;Re-Discovering Game Development&lt;/h2&gt;
+&lt;p&gt;After a few years of trying various different hobbies my mind kept circling back to game development.
+I kept ignoring it as I wanted a hobby that could &amp;quot;make a profit&amp;quot;. Don't get me wrong, I'm not saying indie game development can't be profitable.
+There are plenty of success stories. But, it's difficult and takes a generous spoonful of luck. Whereas, I wanted something &lt;em&gt;easier&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Following a handful of attempts at chasing the elusive &amp;quot;passive income&amp;quot; I was struck with an epiphany. I get paid enough in my day job that I'm not exactly strapped for cash.
+Even if I were to find something that could replace my full-time job, would I actually enjoy doing it, or would it just turn into another 9-5 grind.&lt;/p&gt;
+&lt;p&gt;Instead of stressing about trying to replace my full-time job with some other money making strategy, why don't I just do something I enjoy in my free time.
+This takes the pressure off having to make money with my hobby and allows me to concentrate on enjoying it rather than monetising it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-game-engine-and-or-programming-language-will-i-use"&gt;
+&lt;h2&gt;What Game Engine and/or Programming Language Will I Use?&lt;/h2&gt;
+&lt;p&gt;There will be a small handful of people who are interested in what game engine or programming language I'm deciding to use to make games. Truth be told, I'm not entirely sold yet.
+I have some initial requirements and prerequistites that have informed my decision, but I haven't landed on a definite winner yet.&lt;/p&gt;
+&lt;p&gt;I know, at least to begin with, I want to stick with 2D. I've always found 3D to be difficult to get a result that looks good without a lot of effort.
+2D art is more forgiving in that regard. Therefore, &lt;a class="reference external" href="https://www.unrealengine.com/"&gt;Unreal&lt;/a&gt; could be crossed off my list, as that has basically no 2D capabailities and is massively overkill for 2D games.&lt;/p&gt;
+&lt;p&gt;I always want the ability to target multiple platforms and devices without having to jump through too many hoops, or pay an exoraborant porting or licence fee.
+For that reason, I ruled out &lt;a class="reference external" href="https://unity.com/"&gt;Unity&lt;/a&gt; due to their requirement to purchase the Pro Version if you want to target consoles.&lt;/p&gt;
+&lt;p&gt;After a little reason, and crossing a few more options off the list, I came to three possible contenders: &lt;a class="reference external" href="https://godotengine.org/"&gt;Godot&lt;/a&gt;, &lt;a class="reference external" href="https://www.monogame.net/"&gt;Monogame&lt;/a&gt; and &lt;a class="reference external" href="https://libgdx.com/"&gt;LibGDX&lt;/a&gt;.
+All three have some form of cross-platform support. &lt;a class="reference external" href="https://www.monogame.net/"&gt;Monogame&lt;/a&gt; and &lt;a class="reference external" href="https://godotengine.org/"&gt;Godot&lt;/a&gt; (within reason) can target consoles.&lt;/p&gt;
+&lt;p&gt;The keen reader may have realised that &lt;a class="reference external" href="https://libgdx.com/"&gt;LibGDX&lt;/a&gt; cannot support game consoles, yet it is still within my top 3.
+That's easy, I use Java during my day job, and have been using the language since before I started in the industry, so I have a head start.
+It felt silly to ignore it, even given it's limited platform support, as in theory I should be the fastest within that setup.&lt;/p&gt;
+&lt;p&gt;To decide on a winner I plan to make a single game in each. I want this to be fully finished and polished games, not just a quick and dirty game jam style of game.
+I need to spend time within each Engine/Framework to really know which I prefer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-type-of-games-will-i-make"&gt;
+&lt;h2&gt;What Type of Games Will I Make?&lt;/h2&gt;
+&lt;p&gt;No idea. All I know so far is they will have a 2D artstyle. I don't have any specific plans to stick to any particular genre or variety.
+I want to explore different types of games and find whichever are the most fun to create. Or maybe I'll just move around a lot, who knows.&lt;/p&gt;
+&lt;p&gt;As an aside, I also want to try my hand at writing fiction books. Which gives me the opportunity to add extended lore or backstory to my games.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="that-s-all-folks"&gt;
+&lt;h2&gt;That's All Folks&lt;/h2&gt;
+&lt;p&gt;Anyway, I've droned on enough. I'm not expecting this website to get any views, nor am I expecting my games to turn any form of profit (it'd be nice if they did though).
+I'm not sticking to any formal scheduled with releasing games or posts on this site. I want to make games for me and enjoy the hobby rather than forcing myself to have a 2nd full time job.
+This website is here so I can keep a record of my journey and look back on where I started.&lt;/p&gt;
+&lt;p&gt;It's an unscheduled, unpolished, journel of thoughts.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="misc"></category></entry></feed>
