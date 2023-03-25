@@ -4,7 +4,7 @@ SITEURL = 'https://acroynon.com'
 
 PATH = 'content'
 
-THEME = 'D:/acroy/Documents/Adam/Projects/acroynon_site/theme'
+THEME = './theme'
 
 TIMEZONE = 'Europe/London'
 
